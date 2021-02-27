@@ -1,6 +1,6 @@
-# MyFirstApp
+# Product Display
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.0.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.0. This project shows list of products in a table and allows you to filter it by the text.
 
 ## Development server
 
